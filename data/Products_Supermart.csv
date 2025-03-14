@@ -1,0 +1,501 @@
+product_id,product_name,category,price,stock_quantity,brand,supplier,rating,discount
+7312e621,Coach Shoes,Home & Kitchen,92.69,177,Rosales and Sons,"Manning, Ortega and Ruiz",2.9,0.05
+18239790,Son Shoes,Home & Kitchen,387.56,158,Sanchez LLC,"Kim, Cox and Diaz",3.6,0.11
+9ae416ba,Minute Phone,Electronics,249.59,157,Roberts PLC,Douglas Inc,2.2,0.04
+1cdb06cb,Couple Lipstick,Clothing,378.45,68,Wheeler Inc,"Lam, Rojas and Holder",2.4,0.3
+316889f2,Now Shoes,Home & Kitchen,381.14,194,"Park, Butler and Jackson","Mills, Moore and Smith",4.5,0.26
+df93b659,Traditional Shoes,Beauty,227.21,23,"Ramos, Taylor and Ross","Fischer, Anderson and Obrien",2.9,0.22
+2fb0aeaa,Begin Phone,Books,462.46,159,Sellers-Snow,"Meyer, Sanders and Robertson",4.2,0.0
+221c08a3,Collection Phone,Beauty,284.42,132,Mccarty LLC,Rodriguez-Fisher,3.9,0.17
+2ab7413d,Want Lipstick,Books,319.47,53,Lee-Jones,Lucas and Sons,4.0,0.06
+4310357d,Page Shirt,Sports,314.14,144,Holland-Smith,Maddox Group,2.3,0.43
+2b9e6568,Buy Lipstick,Books,432.8,171,Mendez Inc,Doyle LLC,1.8,0.35
+e4f9eeff,Term Shirt,Electronics,315.47,194,"Wolf, Andrews and Sanchez","Dunn, Moran and Sherman",2.3,0.24
+b962a064,Impact Phone,Sports,79.72,168,Ryan and Sons,Stevens Group,1.2,0.11
+763a2eaa,Doctor Cookware,Home & Kitchen,38.8,107,Martin Group,Reilly-Clark,4.5,0.04
+c209cac4,Happen Lipstick,Books,223.89,47,Miller PLC,Lee-Smith,4.0,0.4
+0e7d25c3,Reach Cookware,Electronics,154.9,184,Reyes Inc,White-Garza,1.1,0.05
+b080e995,Anyone Shirt,Beauty,140.96,72,"Williams, Hanna and Huynh","Levy, Melendez and Miller",3.2,0.18
+45a917a0,Fire Lipstick,Sports,32.81,18,Murray Ltd,Holden PLC,3.3,0.15
+28d8fdf4,Sport Cookware,Sports,256.13,156,Flores LLC,Harrison PLC,3.9,0.19
+c7e166e3,Order Cookware,Electronics,158.65,189,Rodriguez-Cohen,Phillips and Sons,2.2,0.41
+a4abce56,Technology Lipstick,Beauty,228.7,38,Guerra-Brown,Morrow-Underwood,1.8,0.44
+7b939d83,Laugh Cookware,Sports,33.16,58,Berg-Myers,"Edwards, Dean and Wheeler",1.9,0.32
+194a589d,Artist Lipstick,Home & Kitchen,416.69,14,Erickson Ltd,Mahoney and Sons,3.3,0.34
+24fa350e,Car Cookware,Books,42.98,122,Smith-Armstrong,Anderson Ltd,2.0,0.03
+8b42acfc,Then Phone,Clothing,432.8,90,Ford and Sons,Robinson Group,3.2,0.28
+965ea5d5,Law Lipstick,Beauty,428.37,117,Henderson-Wallace,Cole PLC,4.8,0.31
+7983efc0,Serious Phone,Books,309.43,48,Hopkins-Mathews,"Johnson, Hernandez and Jackson",2.4,0.08
+fba38051,Kind Shoes,Clothing,256.0,115,"Rodriguez, Bird and Mercado",Shelton-Berry,4.1,0.18
+9307b36e,Local Phone,Sports,234.04,186,Wilson-Day,Erickson Group,3.0,0.11
+2d6dc2cb,Indicate Cookware,Clothing,279.39,62,"Green, Marquez and Hanna",Holloway-Salas,3.9,0.37
+7efa70ae,Race Shirt,Beauty,396.95,115,Taylor-Gonzalez,"Weaver, Little and Brown",4.0,0.46
+24e73747,Glass Phone,Books,448.46,138,Price LLC,"Ramirez, Owens and Griffin",2.8,0.31
+43d8015f,Than Phone,Sports,227.62,166,Wilson-Curry,Warner-Jones,3.9,0.22
+a54bb06c,Congress Phone,Sports,405.86,130,White-Harrison,Fisher-Edwards,2.4,0.11
+6b51bda0,Long Shirt,Sports,327.66,198,Mills-Woods,Watkins Inc,1.6,0.45
+d414763f,Travel Shirt,Sports,164.16,196,Shannon-Goodwin,"Fernandez, Jennings and Cameron",3.2,0.07
+31425d81,Compare Phone,Clothing,240.44,25,Trevino-Clark,"Clark, Palmer and Gomez",1.7,0.06
+6e7eb978,On Shoes,Sports,79.68,190,Munoz-White,Flores PLC,4.6,0.37
+37119879,Quickly Shirt,Electronics,35.63,45,Fuentes Group,Grant LLC,5.0,0.18
+26392221,Fly Shirt,Sports,56.23,142,Kennedy LLC,Hicks-Franklin,4.8,0.21
+b1c80969,Heart Shirt,Sports,450.07,63,Hunt Group,"Burton, Jackson and Serrano",3.1,0.4
+ef2b03e0,Describe Lipstick,Electronics,175.0,153,Bolton Group,Wagner PLC,4.4,0.12
+08ff7421,Per Phone,Books,358.59,93,"Gilbert, Lopez and Evans","Ramos, Harris and Johnson",1.3,0.32
+c788e847,Middle Shoes,Home & Kitchen,254.75,179,Williams and Sons,Chung Ltd,4.3,0.12
+e4acda19,Evidence Shirt,Electronics,90.42,132,Castro-Griffin,Ross-Hernandez,1.2,0.3
+22b2e0bd,Price Lipstick,Beauty,127.63,144,Ingram-Miller,"Ross, Rodriguez and Wilson",1.0,0.36
+3253f9fa,Smile Cookware,Books,221.69,106,Jackson-Adams,"Hartman, Morrison and Chen",1.5,0.14
+95593433,Produce Cookware,Sports,222.51,90,Norman-Flynn,Rojas-Payne,3.5,0.47
+77002b66,Peace Shirt,Clothing,263.76,54,"Holloway, Armstrong and West","Garcia, Hebert and Holland",1.3,0.01
+07afb918,Hour Shoes,Electronics,83.58,127,Martin LLC,"Mills, Hughes and Rios",1.6,0.42
+3e4f22ba,Agency Shoes,Books,189.56,146,"Wood, Perez and Wilkinson",Dixon and Sons,1.9,0.44
+cc45e20c,Local Phone,Books,145.03,97,Barnes PLC,Banks Group,2.8,0.1
+06a7bafd,Several Shirt,Sports,207.34,149,Campbell Group,Sexton Group,1.2,0.3
+9d86a7ff,A Cookware,Home & Kitchen,172.49,100,Gonzalez Group,"Hodges, Sheppard and Johnson",3.6,0.09
+c0acb3e0,Mouth Phone,Clothing,300.95,183,"Mccarthy, Brown and Smith",Williams PLC,4.7,0.2
+73939a80,Town Shoes,Clothing,395.67,194,Larson and Sons,Robinson and Sons,4.7,0.32
+1bf1b7e1,Office Phone,Clothing,325.42,184,"Baxter, Garrett and Edwards","Peters, Hughes and Lawson",3.6,0.39
+6173e67d,Learn Cookware,Beauty,37.63,174,"Acevedo, Thompson and Myers",Walker Ltd,1.1,0.4
+82628a03,Fish Shoes,Books,51.78,187,Young-Deleon,"Bates, Atkinson and Stanley",3.1,0.12
+a7b3b6f9,Team Lipstick,Beauty,340.8,77,"Smith, Yates and Perkins","Barrera, Morse and Sanchez",2.6,0.19
+2f85f6a6,Able Lipstick,Beauty,145.65,166,Woods Inc,Williams-Henry,1.1,0.12
+d2d93f36,Kid Shirt,Books,363.25,133,Powers-Williams,Dixon-Gutierrez,3.9,0.32
+ec0b6ca6,Smile Phone,Clothing,330.0,59,Mathis-Reid,"Logan, Grimes and Barajas",3.1,0.04
+be54cdf1,Mission Shoes,Books,453.64,73,"Davis, Walker and Wagner",Morgan Ltd,2.1,0.44
+ffb0f027,Himself Shirt,Home & Kitchen,437.27,81,"Green, Lewis and Williams",Smith-Tucker,3.0,0.01
+2acc8fee,Some Phone,Books,170.01,152,"Brooks, Daniels and Hayes",Singh and Sons,3.8,0.18
+f6e3c5f3,Itself Cookware,Sports,293.46,86,"Mccarty, Bell and Perry","Roach, Robinson and Morris",2.7,0.16
+019c2251,Throughout Shoes,Books,75.01,67,Sweeney-Anderson,Chen-Maldonado,4.8,0.19
+3eb059ec,Truth Phone,Electronics,178.16,86,Fischer-Powell,Gonzales-Stein,1.7,0.42
+fa7681da,Age Shoes,Home & Kitchen,484.01,83,Richardson LLC,Martinez-Davis,4.7,0.21
+c273973b,Condition Phone,Electronics,350.75,190,"Miller, Watson and Holmes",Williamson-Lowe,3.1,0.27
+c9594659,Another Cookware,Clothing,199.02,63,"Duncan, Mays and Hernandez","Walker, Hill and Short",2.0,0.09
+2f04cf18,Offer Shoes,Clothing,299.55,186,Middleton-Jackson,Williams-Richardson,3.5,0.24
+a5dfc68a,Action Lipstick,Sports,469.31,190,Smith PLC,"Medina, Garcia and Jones",2.0,0.49
+57a25d1c,Reduce Cookware,Sports,158.24,135,Cook-Terry,Parker Group,2.4,0.04
+96745e86,Senior Phone,Sports,191.46,91,"Skinner, Hart and Smith",Curtis Ltd,4.2,0.29
+24549c98,Win Shoes,Home & Kitchen,396.87,132,Cox Group,Goodwin and Sons,1.3,0.01
+efbfb921,Board Cookware,Beauty,407.53,99,Rogers Inc,"Mcguire, Rosales and Gonzalez",4.8,0.11
+9555d6a4,Other Phone,Books,336.71,153,Mccarthy Group,"Mooney, Wilson and Burton",2.8,0.46
+d2c351c2,Thousand Lipstick,Electronics,415.33,194,Melendez-Vargas,Fuentes-Frank,2.0,0.47
+79763bb0,Three Lipstick,Home & Kitchen,370.69,80,Lewis Group,"Jones, Johnson and Fowler",3.8,0.2
+9df54a21,Congress Phone,Electronics,344.28,83,Newman-Wade,Williamson-Medina,2.2,0.14
+2ec0f10a,Physical Lipstick,Books,265.56,41,Roth Group,Hall LLC,4.3,0.36
+5a663824,Any Cookware,Beauty,324.78,156,"Moody, Conway and Kelley","Adams, Simmons and Carter",1.3,0.38
+ec466708,Company Lipstick,Electronics,214.59,183,White and Sons,Cherry-Andrews,5.0,0.21
+1432f972,Cultural Shirt,Home & Kitchen,184.1,149,Jenkins-Mathews,Johnson-Juarez,3.6,0.2
+d17ececb,Sport Lipstick,Books,184.49,107,"Day, Parsons and Mendez",Weiss Group,1.1,0.32
+062bd6f0,Bank Shirt,Sports,94.23,111,"Hayes, Holland and Jordan","Chase, Mckay and Olsen",2.6,0.27
+2249aa0f,Well Shoes,Sports,111.03,98,Shaw LLC,Reynolds and Sons,2.5,0.08
+d3c0d6c5,Hot Cookware,Sports,474.1,47,"Harper, Serrano and Hughes","Flores, Robinson and Jimenez",2.9,0.04
+8a40b5cd,Standard Shoes,Books,245.7,84,Armstrong and Sons,"Clark, Wilson and Aguilar",3.5,0.04
+097c763b,That Shoes,Beauty,117.14,20,Frazier-Jackson,Diaz-Mccarthy,3.8,0.46
+9331653d,You Lipstick,Home & Kitchen,73.09,83,"Steele, Oneill and Gordon",Guzman Ltd,1.3,0.49
+f4804b7b,Firm Lipstick,Sports,43.2,192,Archer-Johnson,"Thomas, Gonzales and Garcia",4.4,0.08
+ec147855,Us Lipstick,Books,422.99,30,Lindsey-Little,Nixon-Schroeder,3.6,0.16
+ce3036f3,Teach Shoes,Electronics,55.06,98,Anthony Ltd,Page and Sons,2.3,0.29
+679416cd,Economy Cookware,Sports,386.58,123,Duncan-Taylor,"Gallegos, Rivera and Richardson",4.9,0.38
+4918df40,President Cookware,Clothing,418.38,177,Benson Inc,"Stanley, Day and Ferrell",4.9,0.32
+892e2973,Alone Shirt,Home & Kitchen,442.42,75,Wong-Hoffman,Perez LLC,4.6,0.32
+7a9dbea0,Far Phone,Electronics,23.69,132,"Hubbard, Gardner and Morales",Bennett Ltd,4.7,0.16
+e0f99296,Event Cookware,Beauty,171.7,64,"Ramos, Russell and Harris",Jones-Reed,1.9,0.22
+aca9b4d8,Occur Lipstick,Beauty,384.32,61,Farmer Group,"King, Wright and Reynolds",4.6,0.48
+76af13c0,Page Shirt,Books,69.87,147,Lane Ltd,Johnson-Owens,3.8,0.12
+e86928cd,White Lipstick,Beauty,191.48,79,Wells PLC,Evans Group,3.3,0.12
+44ec89bb,Already Shoes,Clothing,85.31,153,"Thompson, Hood and Combs",Fletcher-Price,2.1,0.46
+060cfba5,Pattern Shoes,Sports,416.52,188,Chambers PLC,"Martinez, Paul and Armstrong",4.7,0.06
+7035dec5,Down Lipstick,Electronics,386.69,79,"Arias, Henry and Hoffman","Campbell, Miller and Burton",3.7,0.31
+f9f6c49c,Consumer Cookware,Sports,405.48,45,Park-Church,Yang-Mclean,2.1,0.03
+1c0a8411,Way Phone,Home & Kitchen,86.94,37,Barton and Sons,"Wilson, Brown and Smith",3.2,0.33
+4aa4b837,Close Lipstick,Sports,221.65,167,Davis-Mclaughlin,Vaughan and Sons,3.6,0.33
+2170ef53,Happen Cookware,Books,208.38,199,Ferguson LLC,Palmer Inc,1.7,0.09
+0b2a2994,Data Shirt,Sports,339.8,160,"Baker, Sullivan and Carter",Cunningham-Jones,4.4,0.01
+bcaa8722,End Lipstick,Home & Kitchen,122.58,71,Clark Ltd,Vance-Garcia,1.1,0.07
+eeec175d,Design Shirt,Electronics,224.88,72,"Nichols, Mckay and Young",Monroe-Contreras,1.8,0.01
+f140513b,Consumer Cookware,Clothing,146.04,22,Craig and Sons,Hale-Brown,1.6,0.25
+9ba143ac,According Cookware,Electronics,375.53,181,Turner-Mayo,"Scott, Hart and Benson",4.3,0.17
+20bb45b0,Computer Cookware,Electronics,227.22,145,"Schwartz, Rodriguez and Howard",Roberts-Fitzgerald,4.3,0.26
+53770d9d,Election Cookware,Books,269.34,67,"Bishop, Barnes and Johnson",Vargas Ltd,4.7,0.41
+8a533a16,Help Shoes,Home & Kitchen,158.19,173,George-Brown,Herrera LLC,2.2,0.13
+453a2e55,Audience Cookware,Electronics,405.27,69,Weiss-Gonzales,"Walsh, Allen and Harris",3.3,0.19
+0a00ab04,Amount Shoes,Electronics,237.16,23,Richardson PLC,Cain Group,3.3,0.37
+3958289b,Class Phone,Clothing,418.38,35,"Martin, Kidd and Hall","Bailey, Cantu and Johnson",4.4,0.44
+69041328,Take Shoes,Beauty,187.08,115,"Newton, Ramirez and Hartman","Brewer, Cruz and Fuentes",3.7,0.37
+2fff7405,House Shirt,Clothing,473.83,94,Terry Ltd,Grant and Sons,3.2,0.06
+027d8e84,Western Phone,Home & Kitchen,492.3,193,"Short, Jones and Hardy",Bennett-Stevens,2.5,0.45
+2a9fb994,Reach Shirt,Home & Kitchen,233.53,130,Perry PLC,"Francis, Fritz and Gutierrez",4.0,0.17
+7dddf3dc,Support Lipstick,Books,144.48,35,Hughes Group,Smith LLC,4.2,0.21
+25fc850a,Glass Lipstick,Sports,194.03,184,"Nelson, Walker and Wilson","Long, Allen and Thompson",3.8,0.26
+e714e1a3,Guy Shoes,Sports,266.09,45,"Rose, Shields and Blake",Taylor and Sons,1.3,0.13
+35487cd7,Tonight Shirt,Sports,483.3,11,Garcia Ltd,Frazier and Sons,4.0,0.49
+0f9b0aca,Artist Lipstick,Beauty,409.36,150,Khan-Carpenter,Austin-Stephens,2.4,0.31
+84dcff4d,Build Lipstick,Home & Kitchen,401.62,50,"Barrett, Valenzuela and Valdez",Yoder and Sons,1.4,0.25
+4aac3fb6,Present Lipstick,Beauty,73.51,114,Murphy and Sons,"Kim, Henderson and Walker",1.9,0.26
+673f11eb,Usually Phone,Sports,128.75,177,Hampton-Wilson,Freeman-Williamson,1.3,0.03
+1c798fe1,Shoulder Phone,Sports,322.38,131,Giles and Sons,Davis Group,3.4,0.43
+8422edc7,Draw Cookware,Clothing,437.69,132,Mccoy-Williams,"Jones, Hernandez and Torres",3.5,0.08
+c734817f,Green Shirt,Home & Kitchen,279.5,176,Harris PLC,Martinez-Carter,3.4,0.08
+1f0eb3aa,Federal Lipstick,Sports,55.78,61,"Ryan, Holmes and Villanueva","Martin, Sanchez and Garrison",4.9,0.39
+cc5ec79b,Get Shirt,Electronics,423.72,83,Gibson Group,Ellis Group,2.3,0.45
+f4774614,Style Cookware,Home & Kitchen,426.33,92,Rice PLC,Hamilton-Parker,3.5,0.34
+626d7bf1,Serious Shoes,Beauty,146.11,83,Pierce-Curtis,Li-Rodriguez,4.1,0.06
+a0b5e6c3,Result Cookware,Home & Kitchen,382.74,175,Whitaker-Kirby,Sanchez-Walton,2.8,0.37
+238c929d,Water Lipstick,Books,140.03,25,Goodwin-Johnson,Robinson-Bradley,1.9,0.0
+ef0ebfd3,Along Shoes,Electronics,453.13,32,Ellis PLC,Moss-Day,3.2,0.43
+94fc2275,Draw Shoes,Sports,77.94,176,"Keller, Church and Bean","Schultz, Kelly and Chang",2.5,0.01
+c5f93dca,Top Cookware,Books,221.55,156,May Group,"White, Jennings and Bennett",1.7,0.02
+bd7177cf,Interview Lipstick,Clothing,473.47,69,"Hill, Jones and Fernandez",Cain-Evans,3.3,0.18
+63616032,Partner Shoes,Home & Kitchen,114.91,146,Giles-Jennings,Johnson PLC,2.5,0.46
+bba9827b,Mother Cookware,Home & Kitchen,228.31,199,"Greene, Kline and Garrison",Smith-White,4.1,0.09
+fd2e93ed,Tax Cookware,Clothing,178.04,195,Marsh Group,Cooper-Chandler,2.2,0.48
+f15b854e,Once Lipstick,Books,18.2,19,Anderson-Grant,Decker LLC,2.0,0.02
+8c306073,System Cookware,Electronics,31.36,54,"Anderson, Smith and Weber",Schaefer-Scott,1.3,0.4
+420d2799,Opportunity Cookware,Sports,253.49,116,Brown-Todd,"Ross, Taylor and Ferguson",2.1,0.36
+0cf832b3,Feel Cookware,Books,121.71,55,Gamble Group,"Perez, Smith and Harrison",2.5,0.33
+d0e12881,Run Shirt,Beauty,497.29,19,Chambers LLC,Frye Inc,4.1,0.11
+83da50ff,Step Phone,Sports,190.58,111,Adams-Nguyen,Buckley-Hill,1.6,0.12
+3fc12984,Detail Shirt,Books,18.95,136,"James, Curtis and May","Stevenson, Miller and Parks",2.6,0.46
+18c6a4ff,Price Cookware,Electronics,465.76,57,Murillo-Becker,Carpenter-Gonzalez,2.4,0.16
+f3fddabb,Daughter Phone,Home & Kitchen,420.39,84,Yoder-Miller,Davis-Green,1.4,0.41
+189b67a3,Someone Shoes,Books,326.73,19,Fitzgerald LLC,"Ellis, Holmes and Lawrence",4.8,0.29
+517ec7c8,Stand Shirt,Clothing,396.73,12,"Arias, Thomas and Martin",Lewis-Anderson,2.8,0.06
+8e27e044,Else Shirt,Electronics,73.11,86,Lewis-Carlson,"Smith, Smith and Morris",4.0,0.34
+4256dc8d,Data Shirt,Home & Kitchen,147.01,155,"Davis, Howe and Frye",Alexander Ltd,1.4,0.03
+c25cdea8,Type Lipstick,Electronics,415.73,164,Diaz-Smith,Coleman-Palmer,1.3,0.11
+4f1da23b,Commercial Cookware,Sports,349.56,37,"Blankenship, Hudson and Sullivan",Hale LLC,2.7,0.26
+3069ae7c,Financial Shoes,Clothing,73.7,95,"Brown, Bishop and Banks","Williams, Garcia and Horton",3.2,0.02
+d90da48d,To Shoes,Sports,354.24,82,Smith-Hull,Hanna-Miller,3.0,0.2
+5ceecd7b,Employee Shoes,Sports,227.06,126,Allen-Flores,Aguilar LLC,1.4,0.44
+3d3a79ab,Indeed Cookware,Beauty,7.6,174,"Parker, Bell and Walker",Mays LLC,1.4,0.43
+07ac3372,Wide Phone,Electronics,44.22,149,Scott-Molina,Hamilton PLC,3.2,0.39
+f185ea7c,Common Shirt,Electronics,131.68,144,"Patel, Gonzales and Richardson",Jackson-Garcia,3.4,0.16
+4019175a,Person Cookware,Books,418.31,136,Frazier-Arellano,Tucker PLC,4.1,0.04
+b43cdbe2,Last Shirt,Clothing,276.66,44,Wilcox-Nelson,Dunn Inc,4.5,0.23
+6e93c789,Cause Cookware,Clothing,364.98,139,"Payne, Wilson and Sawyer",Gilbert Group,1.0,0.18
+0dbd384d,Account Shirt,Beauty,266.25,129,"Hayes, Jimenez and Holmes","Warren, Henderson and Anderson",2.7,0.15
+23509275,Task Cookware,Clothing,60.04,79,Crosby-Ross,Combs-Russell,4.1,0.39
+b8949e59,Note Phone,Electronics,147.61,59,Duarte and Sons,"Pearson, Smith and Shields",3.9,0.37
+b4d2b229,Agreement Shoes,Beauty,154.07,38,Patterson Group,"Douglas, Sanchez and Stokes",3.2,0.12
+17733d21,Hand Shirt,Clothing,28.64,94,Roman-Munoz,Watson LLC,5.0,0.18
+ebafc098,Organization Cookware,Beauty,212.81,51,"Cordova, Russell and Richards",Mann and Sons,2.0,0.49
+836a2e1d,Skin Phone,Clothing,397.98,197,Watson LLC,Powell Inc,3.1,0.5
+c45de840,Sit Phone,Clothing,231.27,127,"Velasquez, Faulkner and Wyatt",Lee and Sons,3.7,0.39
+2637fce4,Nothing Shoes,Books,59.87,175,"Stein, Taylor and Williams","Reynolds, Rogers and Holland",1.7,0.37
+24076ed2,Quite Cookware,Clothing,453.05,75,Lopez-Warren,Kent-Smith,2.1,0.27
+80343d4d,During Shirt,Beauty,300.39,193,Martin Group,Sexton-Taylor,2.1,0.4
+4317abe4,Can Lipstick,Electronics,13.14,57,"Harvey, Smith and Butler",Yang-Davis,1.6,0.08
+22cd2c19,Card Phone,Books,260.11,13,Levy PLC,Johnson Group,1.7,0.47
+e9a98188,Theory Phone,Clothing,124.76,198,"Russell, Lopez and Cooper",Johnson-Edwards,2.1,0.01
+3151bb94,Story Shoes,Clothing,76.07,96,"Galloway, Kerr and Gould",Flores-Chapman,2.2,0.27
+f377071a,Exist Cookware,Beauty,217.47,85,"Nicholson, Chapman and Mclaughlin",Smith Group,4.1,0.32
+fee931f4,Soldier Lipstick,Books,309.33,155,"Kelley, Lewis and Walton",Orozco-Harris,2.4,0.35
+4b6ec9d5,Expect Lipstick,Clothing,124.08,182,"Woods, Kaufman and Hawkins","Stone, Anderson and Farrell",4.8,0.0
+183e5726,Believe Lipstick,Electronics,211.2,59,Mckinney-Hayes,Johnson-Esparza,3.9,0.17
+f34e9435,Color Cookware,Sports,333.86,54,Watson Group,Booth PLC,3.0,0.38
+54fef8cf,Until Shirt,Electronics,47.38,166,Turner and Sons,Lopez and Sons,3.5,0.19
+afc63d34,Particularly Phone,Clothing,487.45,173,Fox-Williams,Watson and Sons,2.8,0.37
+a0db01ff,Art Cookware,Electronics,38.5,113,Woodard-Li,"Johnson, Woodward and Stevenson",1.5,0.15
+f97c4b6a,Life Lipstick,Books,265.4,119,Murphy PLC,Jefferson Inc,1.0,0.1
+0495061f,State Phone,Clothing,256.13,141,"Reese, Cherry and Greene",Scott LLC,2.6,0.49
+e46ac676,Goal Phone,Beauty,494.22,93,Ritter Group,Walker Inc,4.4,0.21
+081df5b6,Society Lipstick,Books,279.31,32,Johnson Inc,Perez and Sons,2.5,0.48
+2c42b7f3,Piece Lipstick,Electronics,198.27,112,Evans-Pearson,White-Gray,4.4,0.49
+6d2d2c6c,Increase Phone,Clothing,237.72,181,"Hale, Spears and Thomas",Hogan and Sons,2.8,0.07
+15d324dc,Form Shoes,Books,319.66,34,"Ramsey, Acevedo and Frye",Quinn LLC,2.7,0.14
+85ba2504,Whatever Phone,Electronics,490.61,57,Figueroa-Stanley,Collier-Jenkins,4.3,0.02
+07957c4a,Two Shirt,Clothing,130.56,45,Harrell Ltd,Cook-Robinson,3.6,0.12
+bee21b33,Population Shirt,Sports,13.04,132,"Jones, Turner and Smith",Mason LLC,3.4,0.42
+fbcdcfde,Plant Shoes,Home & Kitchen,395.32,92,"Cain, Simpson and Hernandez",Lynch-Patterson,2.2,0.21
+bc297d8d,Possible Cookware,Beauty,175.68,73,"Bridges, Harrison and Johnson",Thompson PLC,3.4,0.45
+6d5e020f,Center Phone,Electronics,367.81,11,"Fernandez, Newman and Wall","Jordan, Lee and Thompson",3.8,0.23
+20061fdb,Arrive Shirt,Sports,315.99,76,Phillips-Newton,Blair PLC,2.9,0.37
+43b5bebb,Buy Phone,Electronics,386.89,108,"Case, Taylor and Kerr",Wright-Christensen,1.7,0.29
+5fcf960e,Character Shoes,Home & Kitchen,368.92,70,Oliver-Fletcher,"Santiago, Weber and Camacho",2.6,0.25
+6dec0f06,Eight Lipstick,Home & Kitchen,169.6,124,Brown and Sons,Hill PLC,2.3,0.32
+397183ef,Model Shoes,Books,26.95,78,Rogers and Sons,"Walsh, Ward and Howell",3.9,0.2
+e4260ae1,Interest Shoes,Beauty,275.28,94,Hudson Group,Kelly Inc,3.5,0.3
+c100dcbc,Decade Shoes,Beauty,407.69,87,Patterson-Dunlap,Barker-Osborn,4.9,0.03
+b9b436d3,Bag Shirt,Electronics,91.67,159,Dean LLC,Watson-Cook,4.1,0.33
+4e32b993,Medical Shoes,Home & Kitchen,390.68,195,"Bullock, Morales and Sexton",Adams Group,2.3,0.07
+24f295fc,Machine Lipstick,Beauty,234.99,156,"Bentley, Wilcox and Gardner",Wood and Sons,2.1,0.15
+fcd1c3b7,For Lipstick,Clothing,349.22,12,Banks LLC,"Dixon, Harvey and Butler",4.1,0.43
+4cc2b118,Per Lipstick,Beauty,317.71,76,Ferguson-Suarez,Garcia-Kennedy,2.5,0.46
+067070e0,Hot Cookware,Electronics,406.69,177,Wells LLC,Robinson-Powell,4.7,0.2
+5538b109,Fall Shoes,Sports,36.23,102,Burton Inc,"Wolfe, Moore and Humphrey",1.8,0.42
+7fcceb99,Collection Lipstick,Sports,389.21,187,Gilbert-Ortiz,Bradshaw-Long,5.0,0.16
+a03c6494,Attorney Cookware,Beauty,231.55,70,"Jordan, Cook and Castillo","Stewart, Hall and Clark",1.7,0.23
+bb5d13c5,What Shoes,Books,150.25,25,"Herman, May and Wise","Hale, Lyons and Russell",4.1,0.12
+261e5c4d,Administration Shoes,Home & Kitchen,26.68,180,Collins LLC,"Gilmore, Ray and Beasley",1.1,0.47
+8eeefe95,If Phone,Sports,103.74,40,Scott-Page,"Wright, Roberts and Rich",3.9,0.07
+7dbd40f0,Court Shoes,Electronics,25.74,129,Perez-Jones,"Fischer, Price and Bradshaw",4.8,0.39
+2b48a034,Physical Phone,Electronics,467.02,88,Olson PLC,Evans LLC,1.8,0.05
+c1c1ba4f,Stage Shirt,Home & Kitchen,260.11,50,Jefferson-Davis,Miller-Davidson,4.2,0.05
+204fcbe4,Trial Shirt,Home & Kitchen,494.62,113,Crawford Group,"Wolfe, Barnes and Gonzalez",4.3,0.22
+f3e5118a,Executive Cookware,Home & Kitchen,273.8,185,Day Inc,"Payne, Walker and Nelson",1.3,0.16
+fca339e8,Put Phone,Sports,130.39,138,Ewing-Bailey,"Mitchell, Dunn and Porter",4.4,0.06
+d8e8ea7d,Better Shirt,Electronics,377.88,190,Barnes PLC,Sanchez-Lane,4.2,0.18
+632e67ff,Others Shirt,Home & Kitchen,99.6,89,"White, Williams and Neal",Glover-Long,3.7,0.39
+b2e3e64b,Democrat Shirt,Sports,181.7,186,"Garner, Silva and Bowen","Thomas, Cunningham and Lawrence",1.6,0.23
+27139873,Week Shoes,Home & Kitchen,391.52,40,"Gonzalez, Washington and Clark",Gilbert PLC,2.2,0.23
+fbcaebdc,Line Phone,Electronics,433.57,173,Lee Ltd,"Jones, Davis and Dalton",2.0,0.43
+9f14256f,Guess Shirt,Electronics,169.3,85,Patrick LLC,"Potts, Miller and Long",1.6,0.05
+ff6f26ca,Prevent Phone,Books,66.62,104,Bradford-Mitchell,"Rios, Neal and Davis",2.7,0.4
+7126c537,Style Lipstick,Beauty,187.17,167,"Smith, Nelson and Reynolds",Johnson and Sons,2.5,0.15
+45020c28,Billion Lipstick,Clothing,445.3,66,Brady-Nichols,Anderson-Brown,2.8,0.35
+792a83f4,Peace Shoes,Electronics,372.94,66,Schroeder LLC,"Martin, Greer and Smith",3.4,0.3
+a9927ca9,Cause Lipstick,Clothing,447.85,44,Leblanc Inc,Hill PLC,3.3,0.11
+a39cd730,Course Cookware,Books,196.39,132,"Hood, Gutierrez and Jones",Olsen-Haley,3.1,0.43
+095806df,Individual Phone,Beauty,486.99,49,"Jones, Ruiz and Johnson","Smith, Kemp and Hughes",4.7,0.07
+1bddcbea,Likely Shirt,Sports,250.62,126,"Grant, Harrington and Howard",Berry-Wilson,4.5,0.36
+802739e5,Bag Cookware,Beauty,251.27,165,Neal-Woodward,Werner Group,2.7,0.48
+4d246ef6,Scientist Cookware,Beauty,462.53,105,Shields PLC,Vargas LLC,1.1,0.2
+3c3c3182,Drop Lipstick,Sports,262.04,116,Miller-Bell,Sanders-Morris,4.9,0.02
+cfcb3ed7,Black Phone,Books,401.57,189,Bonilla Inc,Massey-Goodman,3.8,0.15
+4ea72fb3,Meet Shirt,Home & Kitchen,364.91,150,"Cervantes, Grant and Gomez","Martin, Kirby and Phillips",4.2,0.41
+bd29e827,Hotel Cookware,Beauty,44.07,130,Cooper PLC,Harris-Cabrera,3.4,0.09
+270116e4,Each Shoes,Beauty,303.21,147,"Miller, Doyle and Davis","Rodriguez, Taylor and Galvan",4.7,0.48
+163dcf6f,Seven Shirt,Books,412.06,180,Green-Higgins,"Mccoy, Turner and Lewis",1.4,0.43
+6ecd8788,Institution Lipstick,Home & Kitchen,275.01,65,"Long, Diaz and Guzman","Baker, Mathis and Miller",2.0,0.28
+bcfe4408,Career Phone,Beauty,164.0,73,Weeks Inc,"Rodriguez, May and Park",3.7,0.28
+5b5eed09,Yet Shoes,Beauty,44.63,184,"Vasquez, Kennedy and Williams",Higgins-Bradley,1.7,0.05
+2c0c9e4b,Land Shirt,Home & Kitchen,332.16,162,Matthews Inc,Oliver Group,3.5,0.05
+a8f0d513,Top Shirt,Electronics,156.72,30,"Collins, Orozco and Wilson","Johnson, Fleming and Pierce",3.3,0.4
+4876494b,Eye Cookware,Sports,303.3,144,Rollins-Vang,Murphy PLC,3.6,0.06
+c433c4f0,Material Shirt,Electronics,215.93,124,Munoz Ltd,Johnson Group,3.6,0.03
+b5d36eb6,From Phone,Sports,346.43,145,"Hernandez, Miller and Ryan",Jackson PLC,4.9,0.39
+3210888f,City Phone,Sports,179.02,190,"Clark, Reyes and Mack",Wilson Ltd,2.3,0.11
+87fc7d1a,Region Shirt,Beauty,25.97,102,"Simon, Allen and Watson",Bradley LLC,4.2,0.1
+00a53ee7,Tonight Cookware,Sports,435.67,29,"Spencer, Cohen and Ramirez","Richards, Juarez and Miller",1.4,0.2
+3bc6c4e2,Movie Shoes,Clothing,179.52,154,"Manning, Keller and Ferguson",Hall LLC,1.4,0.34
+ad5ae575,Professional Shoes,Home & Kitchen,499.08,38,Hernandez LLC,Alvarez Ltd,1.9,0.47
+801d04d5,Whose Cookware,Home & Kitchen,140.9,25,Franklin LLC,Whitaker-Douglas,4.0,0.04
+ce691f9d,Inside Lipstick,Clothing,490.11,150,Arellano Group,Krueger LLC,3.2,0.29
+873a6a3c,Enter Phone,Home & Kitchen,474.21,139,Holt-Fletcher,"Norton, Campbell and Petersen",3.8,0.46
+cd26a22b,Identify Lipstick,Books,42.15,61,Camacho Ltd,"Robles, Baker and Chandler",1.9,0.04
+fe39fe8d,Board Cookware,Home & Kitchen,320.57,156,Cooper Group,Hancock Group,2.5,0.5
+ddbd67b1,Watch Lipstick,Home & Kitchen,184.84,147,Gonzalez and Sons,"Robinson, Jones and King",2.9,0.1
+d8c4198d,Western Cookware,Home & Kitchen,401.54,48,"Duke, Evans and Horn","Davis, Morales and Hester",3.7,0.32
+fe32d7e1,Change Shoes,Sports,341.31,52,"Velez, Yoder and Gill","Pena, Garza and Sandoval",3.8,0.4
+293727e9,Science Shoes,Electronics,476.63,93,Freeman-Wagner,Williams LLC,1.6,0.05
+4f9dd529,Agree Lipstick,Books,75.68,143,"Hansen, Riddle and Williams","Nolan, Martin and Buck",5.0,0.42
+476a4f1d,Voice Lipstick,Home & Kitchen,305.75,123,Williams Ltd,Moreno Group,2.9,0.4
+2fbdaf4f,Pressure Phone,Books,391.75,39,"Wilson, Lyons and Davis",Frost-Powell,2.2,0.06
+1e53a5da,Large Shoes,Sports,22.23,184,"Short, Soto and Werner","Kidd, Adkins and Jones",4.7,0.47
+4f9ac528,Camera Phone,Books,38.28,62,Miller and Sons,"Guzman, Wright and Thomas",1.3,0.03
+8723f7f4,List Lipstick,Books,390.37,193,"Chase, Thomas and Price",Scott Ltd,4.3,0.46
+f22af6f6,Table Cookware,Clothing,186.33,159,Davis PLC,Turner-Green,3.9,0.22
+19b91096,Space Shoes,Sports,194.51,135,Spencer-Hoffman,Davies and Sons,2.4,0.36
+df4eba91,Drop Cookware,Home & Kitchen,285.79,33,Martin-Ross,Gonzalez-Coleman,2.4,0.25
+fcc9cdf1,Agreement Phone,Electronics,304.52,140,Barrett Inc,"Woods, Joyce and Davis",4.1,0.19
+0ffed184,Above Phone,Electronics,341.14,124,"Douglas, Johnson and Gamble","Garcia, Mccall and Reyes",3.1,0.21
+1ae38baa,Own Shirt,Electronics,474.67,24,"Chambers, Moore and Smith",Nguyen Group,2.4,0.18
+d3fc8621,Personal Shoes,Electronics,189.15,126,Burke Group,Wyatt Inc,1.4,0.45
+e9944cd2,Cold Shoes,Home & Kitchen,382.73,43,"Smith, Woods and Nelson",Wilson-Mcdowell,3.9,0.14
+16e7350e,Receive Phone,Electronics,289.09,141,"Ramirez, Castillo and Wolfe","Davis, Maldonado and Howe",2.8,0.22
+f038419a,Site Cookware,Sports,267.08,116,Boyer Ltd,Davies LLC,1.3,0.07
+eb428215,Until Shoes,Sports,202.03,126,"Barton, Sellers and Woodard",Caldwell-Smith,1.2,0.31
+1de50fa3,No Phone,Books,326.53,154,Wallace Inc,"Peters, Rios and Roberts",3.8,0.31
+b09a96e3,Weight Shirt,Clothing,128.56,24,Myers-Jones,Anderson PLC,1.1,0.32
+96f62fa1,Exist Lipstick,Beauty,61.16,153,"Armstrong, Daniel and Ray",Rosales-Evans,2.4,0.25
+a6f8a5ac,Forward Shoes,Electronics,369.16,128,Walter-Tucker,Kerr Ltd,1.4,0.44
+c7da450f,Two Lipstick,Beauty,252.03,182,Cuevas-Anderson,Barton PLC,4.2,0.24
+a15e0655,Certain Cookware,Beauty,196.56,88,White-Murphy,Booker Group,4.7,0.04
+ed646014,Expect Shirt,Beauty,283.03,195,"Bennett, Smith and Hall","Richardson, James and Dalton",4.0,0.19
+f09dba8a,Ask Shoes,Books,134.58,15,Taylor Group,Jacobs and Sons,3.1,0.21
+9de9294d,Cut Lipstick,Sports,133.84,111,Singh LLC,"Kramer, Miller and Hardin",3.2,0.32
+0d09a714,Compare Lipstick,Electronics,225.91,75,Anderson Group,Turner-Arellano,2.3,0.4
+1938bfc7,Season Phone,Home & Kitchen,498.2,10,"Solomon, Smith and Meadows","Odom, Martinez and Lane",2.7,0.12
+d86c3321,Born Lipstick,Books,146.36,200,"Morales, Rivera and Hess",Jackson-May,2.8,0.5
+d24c39a6,At Cookware,Sports,458.66,65,Young-Foster,Bailey Inc,4.2,0.27
+5d5a43aa,Health Lipstick,Home & Kitchen,248.14,158,Hamilton Inc,Mckinney Inc,3.5,0.01
+1ed7cc8a,Rock Cookware,Sports,65.71,28,Williams-Simon,Robinson-Williams,1.7,0.19
+70033ea7,Drug Cookware,Electronics,427.15,21,"Miller, Schultz and Adams","Alvarado, Church and Lopez",3.6,0.36
+87b53b85,Trade Phone,Books,228.76,118,Hanson PLC,Russell LLC,2.6,0.24
+05cb5465,Glass Shirt,Beauty,449.85,98,Smith and Sons,Rogers-Murillo,3.9,0.39
+8ee068b6,Hear Cookware,Books,225.33,189,"Williams, Wilson and Martin",Todd Group,4.5,0.17
+d64d8f6a,Action Lipstick,Books,48.46,26,"Young, Johnson and Diaz","Collins, Jones and Taylor",2.8,0.28
+00e2f562,Friend Lipstick,Electronics,342.55,148,Franklin LLC,Campbell-Le,2.7,0.16
+77cdab25,Between Cookware,Beauty,423.53,25,Barker Group,Villa Group,1.0,0.14
+b70e1920,Experience Lipstick,Beauty,163.2,27,Carroll-Horton,"Daniels, Bush and Hill",1.9,0.01
+f20bdb32,Determine Shoes,Clothing,176.98,130,Hall-Rodriguez,"Melendez, Howard and Myers",2.1,0.3
+07099bf8,Service Phone,Clothing,37.14,18,"Holloway, Costa and Williams",Hunter-Hendrix,3.8,0.01
+1c6ef704,Sport Lipstick,Sports,273.37,83,"Moran, Jordan and Anderson","Walker, Brown and Wood",4.2,0.41
+f9d7b9ad,Chair Phone,Home & Kitchen,446.21,114,Bailey-Briggs,"Mooney, Haynes and Peterson",3.3,0.14
+e4cd46e1,Black Cookware,Clothing,426.42,56,Michael-Stanley,Bailey-Alvarado,4.2,0.4
+e10db2b1,Party Cookware,Electronics,357.35,44,Shepherd-Jarvis,Clark-Cox,3.1,0.24
+fce35a66,Push Cookware,Books,464.03,174,"Crane, Williams and Mitchell","Phillips, Thomas and Mooney",2.5,0.18
+7d8b8291,Book Phone,Beauty,320.66,196,"Estes, Campbell and Mitchell",Little-Miller,1.8,0.29
+32adddad,Firm Lipstick,Books,397.88,175,Perez-Davis,Price and Sons,1.5,0.12
+3a0807d8,Economy Shoes,Electronics,256.83,117,"Smith, Hoffman and Higgins","Ward, Richardson and Green",3.7,0.08
+6b5259dc,Reflect Phone,Books,65.07,105,"Price, Soto and Moreno",Alvarez Ltd,3.0,0.12
+e650cae5,Thought Shoes,Beauty,104.49,107,Mercado-Bruce,Miller Ltd,4.9,0.12
+cc5b59b5,Appear Lipstick,Clothing,73.74,124,Sanders-Sullivan,Rodriguez-Walker,2.3,0.27
+ac79fd55,Nation Lipstick,Home & Kitchen,396.23,106,Harper Ltd,Hicks-Sosa,2.6,0.4
+5dc838f0,Today Phone,Beauty,18.01,106,Hernandez-Snyder,Callahan-Green,2.6,0.37
+ddfc55c2,Letter Shirt,Beauty,279.24,30,Williams-Lyons,"Hunt, Strickland and Garcia",1.5,0.38
+03c5607e,Memory Shoes,Beauty,187.61,184,Smith-Montes,Smith Ltd,2.4,0.47
+ab4c150a,Whose Cookware,Sports,402.81,179,Garcia-Fisher,Ortiz-Greene,2.8,0.29
+cc641c00,Perhaps Shoes,Sports,278.07,148,Collins Group,"Nelson, Stanton and Malone",1.7,0.49
+e057c014,Main Lipstick,Beauty,307.91,44,West LLC,Taylor-Taylor,3.7,0.19
+298a7a60,Pull Lipstick,Electronics,47.68,177,Shields-Moore,Russell-Lee,4.2,0.47
+64051dd8,Challenge Phone,Beauty,158.1,99,Winters-Sullivan,"Rodriguez, Bell and Sparks",4.7,0.5
+fe49d6cd,Every Shirt,Sports,499.8,40,Gonzalez Inc,Taylor and Sons,3.4,0.09
+c36f62b6,Man Cookware,Sports,360.84,55,Gordon-Johnson,"Hernandez, Thompson and Moore",3.7,0.12
+d8cf7b88,Point Shoes,Books,265.22,147,Friedman-Becker,Herrera Group,2.3,0.16
+aa97ff51,Card Shirt,Electronics,385.74,110,Alexander Ltd,Cline-Fox,2.0,0.37
+cd044f6c,House Cookware,Clothing,412.55,145,"Walters, Davis and Crawford",Cooke-Garza,1.5,0.18
+5b44102f,Room Lipstick,Books,41.51,42,Stewart Inc,Johnson-Nelson,2.5,0.3
+b0a9f87f,Site Lipstick,Sports,486.33,196,Rose-Armstrong,Barber PLC,1.6,0.35
+d9863b5f,Enter Phone,Books,322.96,67,Anderson-Scott,Chavez-Lang,2.6,0.18
+5d5b7adb,Trade Phone,Books,227.74,10,Clark PLC,Watson Inc,3.4,0.28
+e0a1ff32,Catch Shoes,Books,341.65,15,Parker-Bradley,"Wilson, Sanchez and Estrada",3.3,0.07
+5265072a,Class Shirt,Electronics,175.53,86,Mckinney LLC,Lee-Coffey,2.7,0.47
+d6b6fb16,Better Shirt,Clothing,439.59,128,"Mcgee, Lewis and Frazier",Pennington-Martin,2.9,0.42
+d2cdb683,More Cookware,Clothing,391.23,182,Benson-Archer,"Schmidt, Anderson and Petersen",3.1,0.41
+0121221d,Offer Shoes,Beauty,321.7,194,Silva-Flores,Roberts-Bowman,4.7,0.49
+37b3b0f6,Eat Phone,Sports,95.07,149,Martinez-Mahoney,"Howard, Burns and Hooper",4.7,0.27
+faae7f71,Section Shoes,Home & Kitchen,483.3,118,Blake PLC,"Malone, Warren and Johnson",1.7,0.09
+a6164c23,Tell Lipstick,Electronics,219.15,146,"Johnston, Sanders and Brandt","Smith, Jones and Jacobson",1.7,0.02
+e48dc1a8,Environmental Phone,Clothing,455.8,107,Abbott-Sullivan,Howell Ltd,2.2,0.03
+d93990b6,Production Shirt,Sports,32.43,68,Jordan Group,Sanchez-Jones,1.7,0.3
+b1e0e9ad,Success Phone,Sports,66.46,73,Spencer and Sons,Savage-Martinez,4.4,0.01
+dd9eae73,Republican Lipstick,Electronics,80.74,127,Reeves-Simpson,"Hodges, Davis and Rios",3.5,0.24
+49def69d,Fund Phone,Electronics,86.51,98,"Lambert, Stevens and Payne",Harrison-Ortiz,4.5,0.17
+80de1dbe,School Shirt,Sports,164.72,49,Brooks Group,Roberts-Stephenson,4.8,0.31
+029db4a0,Work Lipstick,Beauty,356.12,80,Ingram and Sons,Pierce and Sons,2.9,0.4
+bd143f78,Notice Cookware,Clothing,176.28,58,"Benson, Abbott and Solis",May Ltd,1.8,0.17
+cf3ab554,Strong Shoes,Home & Kitchen,470.75,195,Weaver and Sons,"House, Walker and Cruz",2.5,0.09
+50ff1ea7,Break Cookware,Home & Kitchen,447.99,38,Shaffer Inc,Jimenez-Durham,3.2,0.4
+25b96454,Performance Lipstick,Home & Kitchen,423.74,18,"Lopez, Johnson and Ward","Page, Johnson and Cowan",3.6,0.43
+123ea2fb,Couple Lipstick,Books,129.05,179,Allen-Lopez,Grant-Mejia,2.6,0.03
+5d5ed747,Simply Lipstick,Clothing,319.35,117,Vaughn PLC,"Thomas, Walker and Guerrero",3.0,0.07
+8cd00b4a,Within Shirt,Books,277.67,167,"Mendoza, Hartman and Anderson","Stein, Wallace and Velazquez",3.8,0.35
+4a71fa06,Account Lipstick,Books,66.96,14,"Murillo, Sullivan and Green",Short Group,2.8,0.07
+3ebcc752,Five Shoes,Sports,154.9,71,Oneill and Sons,"Johnston, Flores and Rivera",1.7,0.06
+ef8b3927,Sport Shirt,Books,269.07,62,Allen-Martin,Rosario-Melendez,3.3,0.26
+3b906d87,Occur Lipstick,Beauty,253.77,27,Donovan-Huang,Vargas-Torres,4.2,0.18
+17edceb8,Meeting Shirt,Beauty,88.47,35,Bennett-Villarreal,Gardner LLC,1.9,0.04
+d1f7ab45,Mind Shoes,Electronics,471.1,162,"Lopez, Martin and Kennedy",Johnston Ltd,1.1,0.35
+46b0eed1,Analysis Shoes,Electronics,81.33,18,Howell Ltd,Flowers PLC,1.9,0.33
+42739de8,Lawyer Shirt,Clothing,331.07,124,Walker PLC,Knight-Williams,2.2,0.29
+7d96e941,Mind Phone,Clothing,361.71,163,Pearson-Williams,Howard-Hernandez,4.1,0.17
+95d02dac,Protect Cookware,Beauty,304.54,182,Parks Inc,"Owen, Patterson and Bennett",3.3,0.16
+f58b42eb,Idea Lipstick,Electronics,422.05,190,"Davis, Barker and Smith","Williams, Rivera and Stevens",4.1,0.49
+3f2d1955,Themselves Cookware,Sports,283.99,22,Jensen-Perez,Chavez LLC,3.0,0.37
+be94ee36,Paper Shoes,Electronics,413.49,72,Black LLC,Wallace-Williams,3.0,0.22
+1c75725e,Decide Cookware,Books,19.04,199,Lewis LLC,Flores-Wallace,3.3,0.32
+138c549c,Detail Phone,Home & Kitchen,27.5,21,Keller-Jacobs,House Group,2.1,0.24
+7e203afb,Up Cookware,Sports,322.52,112,"Hernandez, Franklin and Marsh","Castro, Evans and Nolan",3.2,0.16
+224ceee6,Easy Cookware,Home & Kitchen,290.5,122,Rivera-Morris,Taylor and Sons,5.0,0.35
+c3dc13a9,Sometimes Shoes,Home & Kitchen,327.31,69,Murphy LLC,"Smith, Ramirez and Mendoza",3.2,0.28
+1934d49c,Conference Shoes,Beauty,384.64,148,"Peterson, Mosley and Brown",Gilbert-Martin,4.0,0.44
+279ea501,Perform Lipstick,Home & Kitchen,211.21,65,Morris-Carroll,"Sweeney, Phillips and Turner",4.0,0.31
+a3b5bc49,Perform Shirt,Home & Kitchen,321.3,24,"Dean, Harris and Chung",Heath-White,2.8,0.18
+cfe5aa88,Open Lipstick,Books,251.53,45,Johnson Ltd,Schmidt Ltd,1.9,0.33
+3a221851,Law Shoes,Clothing,315.45,138,Kramer-Rollins,Allen and Sons,2.7,0.41
+274c51a1,Health Lipstick,Beauty,148.39,84,Nunez and Sons,Thompson-Turner,3.9,0.19
+6f64ca2b,Beyond Cookware,Electronics,478.54,69,Haney-Hardy,Wang LLC,3.6,0.37
+fda37293,Help Cookware,Books,244.06,197,Mcintyre Group,Gibson and Sons,2.0,0.15
+6c3ffefb,Turn Shoes,Home & Kitchen,403.32,157,Mcdonald-Robinson,Rodriguez-Rivera,4.5,0.09
+242f478f,Prepare Shoes,Electronics,344.07,91,Perry Ltd,Dunlap Group,1.1,0.0
+7108f569,Yes Lipstick,Books,152.23,157,"Graves, Johnson and Ross","Rodriguez, Nichols and Stewart",2.1,0.35
+341d706a,Art Lipstick,Sports,41.12,163,Blair-Johnson,Singleton-Richards,4.4,0.29
+76be9057,Company Cookware,Sports,34.66,182,Smith-Hansen,Cruz Group,1.3,0.43
+ce35d5ea,Grow Shirt,Beauty,222.6,92,Young Inc,"Lamb, Smith and Ramirez",4.5,0.39
+7b0e2102,Manage Shirt,Home & Kitchen,244.7,70,Mendez-Jackson,Chavez-Allen,1.5,0.28
+c0acea64,Sense Shoes,Beauty,105.99,87,"Flynn, Taylor and Roberts",Walker and Sons,4.2,0.09
+b9004086,Occur Lipstick,Sports,305.3,46,"Holloway, Bowman and Moody","Norton, Lowe and Carter",1.8,0.16
+7c96cc00,Reduce Shirt,Books,159.73,179,Luna-Anderson,Galvan Inc,4.0,0.4
+3a6ff66b,Figure Lipstick,Electronics,360.59,143,Nelson-Leonard,Bowman-Dorsey,3.8,0.31
+2f8ad8e5,Lead Phone,Clothing,368.43,66,Kennedy-Blake,Fox and Sons,4.4,0.32
+d2433439,Face Cookware,Home & Kitchen,431.08,115,"Jackson, Chavez and Taylor",Ramirez and Sons,3.4,0.05
+80d54f85,Art Lipstick,Beauty,487.81,86,"Howe, Wilkinson and Jordan","Graham, White and Macias",2.7,0.25
+758240a7,Use Lipstick,Electronics,69.73,80,Smith Inc,"Greene, Ramos and Garcia",3.5,0.17
+0cc0623f,Nature Lipstick,Electronics,188.42,25,Mann and Sons,Bean-Burke,4.1,0.04
+5513a16e,Goal Shirt,Clothing,283.02,152,"Bates, Kelly and Bradford",Johnson Inc,4.3,0.17
+64f92ef3,Provide Lipstick,Books,162.96,161,Ware-Pope,Marshall-Pennington,4.2,0.16
+fb3431dd,Most Phone,Clothing,235.9,198,Daniel-Campbell,Stein LLC,3.3,0.32
+2f9988ae,Stock Shirt,Clothing,137.4,54,Adams-Larson,"Allen, Thompson and Sullivan",3.1,0.48
+4cddaaf2,Still Shoes,Books,127.72,170,"Willis, Garcia and Schaefer","Clark, Garrison and Flowers",3.4,0.41
+6aa792a8,Her Shoes,Books,52.92,183,"Hale, Duncan and Washington",Walker-Martinez,1.7,0.34
+02a213b0,Simple Cookware,Books,148.65,119,"Roberson, Erickson and Wilkinson",Walton-Maddox,4.9,0.36
+6093418a,New Phone,Electronics,195.15,152,"Clarke, Scott and Sloan",Combs PLC,2.2,0.17
+7a6d9868,Nice Lipstick,Electronics,309.61,136,"Simmons, Lawrence and Oliver",Porter LLC,3.3,0.01
+d5b7bc6e,Dark Phone,Home & Kitchen,127.89,22,Cervantes-Smith,"Deleon, Nicholson and Smith",4.8,0.1
+569807e3,Themselves Shoes,Sports,433.33,98,Harper-Mcbride,Williams Inc,3.1,0.35
+f7867063,Single Lipstick,Home & Kitchen,84.05,174,Thomas Group,"Richards, Rodriguez and Allen",4.6,0.18
+6ae5cc9d,Number Phone,Clothing,167.08,181,Phillips-Anderson,Lewis PLC,4.3,0.39
+9a8ed6e8,Congress Shirt,Clothing,290.96,107,"Walker, Garza and Barry",Burns Group,1.5,0.36
+876d732a,Stage Lipstick,Home & Kitchen,159.79,144,Anderson and Sons,Munoz Inc,4.0,0.02
+d5fd40e9,Full Shirt,Beauty,382.75,91,"Kelley, Padilla and Gilmore",Lucas and Sons,2.6,0.22
+680c40c1,Scene Phone,Sports,251.64,188,"Jones, Camacho and Garcia","Perkins, Peterson and Garcia",1.2,0.21
+07bbd002,Leave Lipstick,Clothing,259.79,116,"Roberts, Cantu and Perez",Lopez LLC,2.1,0.08
+eb244b05,See Cookware,Beauty,251.89,114,Smith Inc,Baldwin-Rhodes,3.6,0.21
+64b4d5c3,Student Cookware,Beauty,157.73,48,Cohen Group,"Vasquez, Palmer and Richardson",3.8,0.44
+2d264022,Mean Shoes,Sports,16.47,86,"Hale, Calhoun and Martin","Parker, Acosta and Riley",1.5,0.18
+c7b95bd9,Central Lipstick,Books,472.89,106,Velasquez PLC,"Cain, Thomas and Smith",1.6,0.19
+427c3d5f,Interview Phone,Electronics,255.2,57,"Sexton, Crosby and Evans",Acosta-Madden,2.3,0.41
+06809246,Story Cookware,Home & Kitchen,483.51,147,"Martin, Sanders and Murray",Paul Inc,2.0,0.39
+d59101ce,Consider Shoes,Sports,111.5,131,"Horton, Brown and Palmer",Curtis-Harrison,4.4,0.29
+7969748f,Affect Lipstick,Electronics,179.68,71,"Fox, Stout and Anderson","Tate, Mitchell and Bennett",2.6,0.38
+be010fe7,Sister Cookware,Home & Kitchen,30.02,67,Fox-Payne,Gross-Massey,1.6,0.11
+53cea4c4,Movie Lipstick,Electronics,249.97,86,Brown-Sandoval,Smith-Singh,3.5,0.23
+6dd7286a,Exactly Shoes,Home & Kitchen,441.76,191,Jones-Boyd,"Phillips, Sherman and Gonzalez",3.5,0.4
+0242fb7e,Information Phone,Electronics,328.86,46,Terry-Archer,"Lyons, Garcia and Miller",2.5,0.02
+a7ff3051,Meet Shoes,Books,237.94,128,Wolfe LLC,Dickson-Patterson,1.3,0.01
+734264e1,Car Phone,Beauty,270.66,24,"Day, Morales and Mcdonald",Dawson-Morgan,4.2,0.13
+800c8efb,Reason Shirt,Home & Kitchen,424.35,153,"Greene, Compton and Schmitt",Thompson-Ruiz,4.1,0.05
+7ff3a4b9,Pattern Cookware,Beauty,218.31,115,Johnson-Shelton,Jones-Johnson,2.6,0.17
+41336ed1,Start Shirt,Home & Kitchen,441.82,116,"Patterson, Wallace and Adams","Moore, Miller and Graves",4.0,0.44
+13b498db,Concern Phone,Sports,365.12,152,Lee-Gregory,Woods-Brown,3.8,0.08
+07122fb9,Him Lipstick,Sports,383.11,145,Maddox PLC,"Jones, Griffith and Brown",4.5,0.04
+86e76c6c,Focus Phone,Home & Kitchen,186.14,44,Moore-Foster,Sanchez Ltd,2.8,0.47
+2e5146bd,Window Phone,Books,203.29,109,Williams PLC,Myers Ltd,3.0,0.49
+670662f2,Direction Lipstick,Electronics,287.29,72,Berry and Sons,"Frazier, Ramos and Hughes",3.3,0.17
+7497d326,Training Shirt,Home & Kitchen,101.35,75,Miller-Morales,Chen-Harris,4.5,0.49
+0f445302,State Cookware,Electronics,278.85,62,Garcia LLC,Taylor and Sons,4.4,0.45
+f195dc4c,Public Phone,Books,41.4,94,Santana-Oconnor,"Tucker, Ryan and Willis",1.4,0.35
+1a710bdf,Two Phone,Clothing,254.61,175,"Hunter, Tapia and Rivera",Melton Group,4.9,0.22
+d5fea180,From Cookware,Beauty,383.38,30,"Mcintosh, Arroyo and Morris","Black, Mitchell and Hunt",3.5,0.33
+a6b83e23,Since Phone,Home & Kitchen,143.46,125,Beasley-Bell,Walker-Jimenez,3.8,0.3
+9b53ca4f,Hour Cookware,Sports,494.6,104,Scott Group,Mitchell and Sons,4.4,0.22
+1b4aa8ae,Be Cookware,Books,341.8,33,Smith-Williams,"Collins, Smith and Johnson",4.2,0.03
+c7893c91,Stock Cookware,Electronics,63.81,147,"Griffin, Meyer and Lamb","Sanchez, Greer and Mejia",2.6,0.17
+e20ef794,Pay Lipstick,Home & Kitchen,487.67,195,"Foley, Carter and Brown",Hudson PLC,4.9,0.49
+49f8a292,Including Shirt,Electronics,199.98,58,Perry LLC,"Velez, Hernandez and Sanchez",4.3,0.2
+67764388,Concern Shirt,Clothing,398.47,23,Nguyen-Moore,"Jones, Thomas and Kim",3.0,0.28
+084a2ec4,One Shoes,Home & Kitchen,172.85,78,Hensley-Green,"Hopkins, Shaw and James",2.3,0.46
+1a834240,Cold Lipstick,Beauty,469.78,106,"Chapman, Kennedy and Phillips","Clark, Arellano and Fischer",2.1,0.27
+941e22e9,Consider Shoes,Home & Kitchen,378.71,182,Solis and Sons,"Reeves, Garcia and Hopkins",3.2,0.33
+db422295,Cover Shirt,Beauty,103.53,164,Moreno PLC,Solis Group,1.5,0.15
+079313db,True Shirt,Electronics,257.02,164,Smith-Rowe,Peterson-Jones,4.4,0.05
+69c80b17,Hard Shirt,Home & Kitchen,252.54,20,Hoover-Camacho,Woodard-Calhoun,4.2,0.2
+9192518f,Across Phone,Books,27.43,28,"Brown, Smith and Sanchez",Williams Inc,4.6,0.27
+187cde97,Someone Shoes,Sports,72.83,58,Williams PLC,Contreras-Johnson,4.0,0.25
+4421d249,Born Lipstick,Books,169.86,160,Patrick-Adams,Lara-Martin,1.2,0.03
+44c56f6a,None Shoes,Clothing,239.5,195,Hunt Group,Long-White,3.5,0.0
+0f8034cc,Cover Shirt,Books,231.21,181,Thompson Ltd,Glenn-Mcdowell,4.3,0.04
+de4c4944,Head Lipstick,Clothing,305.1,153,Simon-Fernandez,Brown-Thomas,1.1,0.41
+e22f8d1a,Shoulder Shoes,Electronics,260.18,65,"Nichols, Johnson and Franklin",Holder LLC,4.7,0.31
+ebed65d4,Stuff Shirt,Beauty,167.34,132,Francis-Lewis,Walker-Morton,1.6,0.24
+14941dbd,Record Shirt,Sports,308.47,63,"Lane, Silva and Hamilton",Burns LLC,2.8,0.05
+7216006c,World Lipstick,Electronics,85.44,95,Colon Group,"Myers, Arias and Cruz",5.0,0.1
+e35f41db,Prove Cookware,Beauty,495.35,87,"Washington, Kirk and Nicholson",Madden-Green,2.7,0.32
+f0fd1ea9,Into Lipstick,Beauty,370.96,13,"Rich, Taylor and Nelson",Dixon-Chapman,5.0,0.49
+32c2c61a,Concern Cookware,Clothing,153.12,64,Peters Inc,Martin PLC,4.6,0.24
+d5cb20a3,Sometimes Phone,Books,171.5,58,Cox PLC,Erickson-Rivas,4.5,0.06
+eab4bce8,Use Lipstick,Books,415.0,199,Rose-Evans,Parker Ltd,2.2,0.39
+394ffcb9,First Cookware,Sports,268.51,40,Marshall LLC,Edwards Group,4.5,0.24
+ceef5d5c,Likely Shoes,Sports,355.83,132,Walton-Vasquez,"Anderson, Bradley and Murphy",4.5,0.45
+4754c20a,Consider Shirt,Clothing,153.4,72,"Beltran, Smith and Morris","Mcfarland, Trevino and Thomas",1.4,0.13
+fa986619,Old Phone,Clothing,408.8,188,"Fowler, Walker and King","Brown, Fisher and Martinez",2.4,0.32
+015d441f,Its Lipstick,Electronics,187.34,164,Beasley PLC,Liu-Dawson,1.3,0.19
+9015144f,Current Cookware,Clothing,338.53,190,"Juarez, Williams and Barrett",Harper and Sons,3.7,0.19
+c1986cfb,Perform Shoes,Books,490.05,62,Smith-Love,"Flores, Johnson and Alexander",3.6,0.19
+0f94e2f9,Soon Cookware,Clothing,293.93,111,Nelson-Curtis,Scott LLC,1.2,0.09
+9da3e777,Enter Lipstick,Clothing,399.39,71,Solis Inc,Jones PLC,3.5,0.02
+fc947bc1,Up Cookware,Beauty,364.04,151,Pruitt-Burke,Turner Ltd,3.9,0.22
+b2e9da66,Couple Lipstick,Clothing,345.58,92,Cook LLC,Santana-Lopez,4.0,0.13
+9ace5bb2,Race Cookware,Sports,18.19,82,"Skinner, Smith and Lee",Carter Group,2.7,0.42
+b36203ce,Add Shirt,Electronics,239.92,107,Hernandez-Perez,Pierce-Vincent,1.4,0.28

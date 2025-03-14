@@ -6,7 +6,7 @@ ETL Pipeline: Automating extraction, transformation, and loading (ETL).
 Business Insights: Analyzing trends, customer behaviour, and product performance.
 Technologies Used
 🔹 Database: MySQL (Star Schema)
-🔹 ETL Tools: MySQL LOAD DATA INFILE, Python
+🔹 ETL Tools: MySQL LOAD DATA INFILE
 🔹 Visualization: Excel
 🔹 Querying & Analysis: MySQL Workbench
 
